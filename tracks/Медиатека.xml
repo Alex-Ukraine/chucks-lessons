@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-08-05T18:33:20Z</date>
+	<key>Application Version</key><string>12.10.8.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>D960CA265ABDB79C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>73</key>
+		<dict>
+			<key>Track ID</key><integer>73</integer>
+			<key>Name</key><string>Лимонов</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>651572</integer>
+			<key>Total Time</key><integer>78761</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-05-23T16:40:07Z</date>
+			<key>Date Added</key><date>2020-05-24T19:31:13Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-05-23T16:38:29Z</date>
+			<key>Persistent ID</key><string>551224586619FD2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200523%20193829.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>75</key>
+		<dict>
+			<key>Track ID</key><integer>75</integer>
+			<key>Name</key><string>Глава 9. Фрагмент 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>14554098</integer>
+			<key>Total Time</key><integer>1750226</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-05-24T19:17:23Z</date>
+			<key>Date Added</key><date>2020-05-24T19:31:13Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-05-24T18:47:56Z</date>
+			<key>Persistent ID</key><string>9EC5FB7D3D4521DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200524%20214756.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>77</key>
+		<dict>
+			<key>Track ID</key><integer>77</integer>
+			<key>Name</key><string>Лимонов 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>646991</integer>
+			<key>Total Time</key><integer>78366</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-05-23T16:42:25Z</date>
+			<key>Date Added</key><date>2020-05-24T19:31:13Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-05-23T16:40:52Z</date>
+			<key>Persistent ID</key><string>90B4C40A90DEA3C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200523%20194052.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>79</key>
+		<dict>
+			<key>Track ID</key><integer>79</integer>
+			<key>Name</key><string>Новая запись</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>106337</integer>
+			<key>Total Time</key><integer>12793</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-05-23T16:40:51Z</date>
+			<key>Date Added</key><date>2020-05-24T19:31:13Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-05-23T16:40:25Z</date>
+			<key>Persistent ID</key><string>BD5C27AC627CDAE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200523%20194025.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>81</key>
+		<dict>
+			<key>Track ID</key><integer>81</integer>
+			<key>Name</key><string>Яблоко</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>636672</integer>
+			<key>Total Time</key><integer>76996</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-05-23T16:22:51Z</date>
+			<key>Date Added</key><date>2020-05-24T19:31:13Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-05-23T16:21:18Z</date>
+			<key>Persistent ID</key><string>B97D1EA4D57E5042</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200523%20192118.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>83</key>
+		<dict>
+			<key>Track ID</key><integer>83</integer>
+			<key>Name</key><string>Глава 9. Фрагмент 1</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>23053256</integer>
+			<key>Total Time</key><integer>2771278</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-05-24T18:25:18Z</date>
+			<key>Date Added</key><date>2020-05-24T19:31:13Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-05-24T17:37:57Z</date>
+			<key>Persistent ID</key><string>ABCD4BF939E1F961</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200524%20203757.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>85</key>
+		<dict>
+			<key>Track ID</key><integer>85</integer>
+			<key>Name</key><string>Мп. Заключение</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>16863442</integer>
+			<key>Total Time</key><integer>2027124</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-05-25T18:25:02Z</date>
+			<key>Date Added</key><date>2020-05-25T20:42:26Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-05-25T17:50:47Z</date>
+			<key>Persistent ID</key><string>83F6E30E1DBC7A2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200525%20205047.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>87</key>
+		<dict>
+			<key>Track ID</key><integer>87</integer>
+			<key>Name</key><string>3 Уровень</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>10344725</integer>
+			<key>Total Time</key><integer>1290378</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-11T08:11:30Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-11T07:49:44Z</date>
+			<key>Persistent ID</key><string>AB3417D11FE6A7DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200611%20104944.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>89</key>
+		<dict>
+			<key>Track ID</key><integer>89</integer>
+			<key>Name</key><string>Список</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>359822</integer>
+			<key>Total Time</key><integer>44140</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-07T19:58:25Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-07T19:57:29Z</date>
+			<key>Persistent ID</key><string>71A6134AB782EE56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200607%20225729.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>91</key>
+		<dict>
+			<key>Track ID</key><integer>91</integer>
+			<key>Name</key><string>Логика 11</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>251738</integer>
+			<key>Total Time</key><integer>31021</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:13:23Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:12:44Z</date>
+			<key>Persistent ID</key><string>12FE3FEA086CEE1B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20101244.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>93</key>
+		<dict>
+			<key>Track ID</key><integer>93</integer>
+			<key>Name</key><string>Список 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>2432187</integer>
+			<key>Total Time</key><integer>300790</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-07T20:27:52Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-07T20:22:42Z</date>
+			<key>Persistent ID</key><string>5115F5EFC86ECC7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200607%20232242.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>95</key>
+		<dict>
+			<key>Track ID</key><integer>95</integer>
+			<key>Name</key><string>Бм. Глава 2. Фрагмент 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>11202825</integer>
+			<key>Total Time</key><integer>1347198</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-03T14:10:43Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-03T13:47:44Z</date>
+			<key>Persistent ID</key><string>791465051E45F009</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200703%20164744.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>97</key>
+		<dict>
+			<key>Track ID</key><integer>97</integer>
+			<key>Name</key><string>Циклоид</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>5434990</integer>
+			<key>Total Time</key><integer>676838</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T20:00:28Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T19:48:54Z</date>
+			<key>Persistent ID</key><string>1E72AAF10EF5EB18</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20224854.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>99</key>
+		<dict>
+			<key>Track ID</key><integer>99</integer>
+			<key>Name</key><string>Логика 13</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>249497</integer>
+			<key>Total Time</key><integer>30788</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:15:34Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:14:52Z</date>
+			<key>Persistent ID</key><string>0AEA5381541F7FDB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20101452.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>101</key>
+		<dict>
+			<key>Track ID</key><integer>101</integer>
+			<key>Name</key><string>Бм. Глава 1</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>11647554</integer>
+			<key>Total Time</key><integer>1401138</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-03T09:24:00Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-03T09:00:13Z</date>
+			<key>Persistent ID</key><string>492AB896371BD75C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200703%20120013.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>103</key>
+		<dict>
+			<key>Track ID</key><integer>103</integer>
+			<key>Name</key><string>Ки-Вики</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>3697322</integer>
+			<key>Total Time</key><integer>457454</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-21T14:06:31Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-21T13:58:31Z</date>
+			<key>Persistent ID</key><string>2F3E500E384830B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200621%20165831.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>105</key>
+		<dict>
+			<key>Track ID</key><integer>105</integer>
+			<key>Name</key><string>Логика 7</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>378013</integer>
+			<key>Total Time</key><integer>47066</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:10:00Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:09:04Z</date>
+			<key>Persistent ID</key><string>C2FAFB1AB6DCE281</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20100904.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>107</key>
+		<dict>
+			<key>Track ID</key><integer>107</integer>
+			<key>Name</key><string>Логика 4</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>340789</integer>
+			<key>Total Time</key><integer>42166</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:07:11Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:06:21Z</date>
+			<key>Persistent ID</key><string>4603948144261E13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20100621.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>109</key>
+		<dict>
+			<key>Track ID</key><integer>109</integer>
+			<key>Name</key><string>Бм. Введение</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>10839676</integer>
+			<key>Total Time</key><integer>1306586</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-03T08:31:07Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-03T08:08:57Z</date>
+			<key>Persistent ID</key><string>0769A2AC9D709721</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200703%20110857.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>111</key>
+		<dict>
+			<key>Track ID</key><integer>111</integer>
+			<key>Name</key><string>Тонус Конец1</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>6337263</integer>
+			<key>Total Time</key><integer>790034</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T20:16:04Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T20:02:33Z</date>
+			<key>Persistent ID</key><string>8BBD1A070D8FCE89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20230233.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>113</key>
+		<dict>
+			<key>Track ID</key><integer>113</integer>
+			<key>Name</key><string>Уровень 4</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>9874727</integer>
+			<key>Total Time</key><integer>1230843</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-11T09:06:51Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-11T08:46:07Z</date>
+			<key>Persistent ID</key><string>F36C25F770DE98B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200611%20114607.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>115</key>
+		<dict>
+			<key>Track ID</key><integer>115</integer>
+			<key>Name</key><string>Бм. Глава 2. Фрагмент 1</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>20295343</integer>
+			<key>Total Time</key><integer>2442413</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-03T10:31:48Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-03T09:49:21Z</date>
+			<key>Persistent ID</key><string>F1D549A210C83DE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200703%20124921.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>117</key>
+		<dict>
+			<key>Track ID</key><integer>117</integer>
+			<key>Name</key><string>Логика 3</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>379784</integer>
+			<key>Total Time</key><integer>47204</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:06:14Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:05:18Z</date>
+			<key>Persistent ID</key><string>F7A29149E1EAFD88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20100518.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>119</key>
+		<dict>
+			<key>Track ID</key><integer>119</integer>
+			<key>Name</key><string>Список 200</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>3171457</integer>
+			<key>Total Time</key><integer>394366</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T06:25:27Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T06:18:31Z</date>
+			<key>Persistent ID</key><string>294B30D4160EA020</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20091831.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>121</key>
+		<dict>
+			<key>Track ID</key><integer>121</integer>
+			<key>Name</key><string>300</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>3958789</integer>
+			<key>Total Time</key><integer>491751</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-09T22:38:19Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-09T22:29:46Z</date>
+			<key>Persistent ID</key><string>F32F67FA23E23D0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200610%20012946.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>123</key>
+		<dict>
+			<key>Track ID</key><integer>123</integer>
+			<key>Name</key><string>Логика 8</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>364334</integer>
+			<key>Total Time</key><integer>45114</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:11:00Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:10:05Z</date>
+			<key>Persistent ID</key><string>28140526BE1B4AE0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20101005.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>125</key>
+		<dict>
+			<key>Track ID</key><integer>125</integer>
+			<key>Name</key><string>Логика 12</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>1270949</integer>
+			<key>Total Time</key><integer>51824</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:26:45Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:13:28Z</date>
+			<key>Persistent ID</key><string>BAA8AB9A69784872</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20101328.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>127</key>
+		<dict>
+			<key>Track ID</key><integer>127</integer>
+			<key>Name</key><string>Уровень 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>7933413</integer>
+			<key>Total Time</key><integer>988518</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T21:10:07Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T20:53:24Z</date>
+			<key>Persistent ID</key><string>1377A45C943A0BDA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20235324.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>129</key>
+		<dict>
+			<key>Track ID</key><integer>129</integer>
+			<key>Name</key><string>400</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>4700864</integer>
+			<key>Total Time</key><integer>585234</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-09T22:48:39Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-09T22:38:44Z</date>
+			<key>Persistent ID</key><string>72F6AC874EB2AC8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200610%20013844.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>131</key>
+		<dict>
+			<key>Track ID</key><integer>131</integer>
+			<key>Name</key><string>Логика 9</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>314311</integer>
+			<key>Total Time</key><integer>39031</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:11:56Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:11:09Z</date>
+			<key>Persistent ID</key><string>3EF3A1DB95663BC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20101109.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>133</key>
+		<dict>
+			<key>Track ID</key><integer>133</integer>
+			<key>Name</key><string>Логика 10</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>174197</integer>
+			<key>Total Time</key><integer>21408</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:12:37Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:12:05Z</date>
+			<key>Persistent ID</key><string>77B5F77D912B8434</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20101205.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>135</key>
+		<dict>
+			<key>Track ID</key><integer>135</integer>
+			<key>Name</key><string>Список Кпт Прл</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>2342510</integer>
+			<key>Total Time</key><integer>291014</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T05:17:23Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T05:12:10Z</date>
+			<key>Persistent ID</key><string>1851DFB24EA17D69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20081210.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>137</key>
+		<dict>
+			<key>Track ID</key><integer>137</integer>
+			<key>Name</key><string>Логика 5</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>474514</integer>
+			<key>Total Time</key><integer>58328</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:08:22Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:07:15Z</date>
+			<key>Persistent ID</key><string>BDEC72A875B90353</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20100715.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>139</key>
+		<dict>
+			<key>Track ID</key><integer>139</integer>
+			<key>Name</key><string>Логика 6</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>164178</integer>
+			<key>Total Time</key><integer>20293</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:08:59Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:08:30Z</date>
+			<key>Persistent ID</key><string>B826C8765D58AAA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20100830.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>141</key>
+		<dict>
+			<key>Track ID</key><integer>141</integer>
+			<key>Name</key><string>Логика 1</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>792785</integer>
+			<key>Total Time</key><integer>98173</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:04:23Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:02:31Z</date>
+			<key>Persistent ID</key><string>FAD2A59D633B7B33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20100231.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>143</key>
+		<dict>
+			<key>Track ID</key><integer>143</integer>
+			<key>Name</key><string>Логика 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>275661</integer>
+			<key>Total Time</key><integer>34040</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-06-08T07:05:12Z</date>
+			<key>Date Added</key><date>2020-07-03T14:46:11Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-06-08T07:04:30Z</date>
+			<key>Persistent ID</key><string>F31B050494F66118</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200608%20100430.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>145</key>
+		<dict>
+			<key>Track ID</key><integer>145</integer>
+			<key>Name</key><string>Бм. Глава 3. Фрагмент 1</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>17724058</integer>
+			<key>Total Time</key><integer>2134610</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-04T17:07:25Z</date>
+			<key>Date Added</key><date>2020-07-04T22:14:53Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-04T16:31:13Z</date>
+			<key>Persistent ID</key><string>03BDEEF5DF26706E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200704%20193113.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>147</key>
+		<dict>
+			<key>Track ID</key><integer>147</integer>
+			<key>Name</key><string>Бм. Глава 3. Фрагмент 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>3474603</integer>
+			<key>Total Time</key><integer>418190</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-04T17:30:10Z</date>
+			<key>Date Added</key><date>2020-07-04T22:14:53Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-04T17:22:51Z</date>
+			<key>Persistent ID</key><string>7AAE7981EC65BBC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200704%20202251.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>149</key>
+		<dict>
+			<key>Track ID</key><integer>149</integer>
+			<key>Name</key><string>Бм. Глава 4</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>19587749</integer>
+			<key>Total Time</key><integer>2367250</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-05T15:20:32Z</date>
+			<key>Date Added</key><date>2020-07-05T16:34:01Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-05T14:40:49Z</date>
+			<key>Persistent ID</key><string>840B034B0BF37385</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200705%20174049.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>151</key>
+		<dict>
+			<key>Track ID</key><integer>151</integer>
+			<key>Name</key><string>Бм. Глава 5</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>18905795</integer>
+			<key>Total Time</key><integer>2285423</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-05T16:31:22Z</date>
+			<key>Date Added</key><date>2020-07-05T16:34:01Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-05T15:42:44Z</date>
+			<key>Persistent ID</key><string>2FDC1E36AFC8A7E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200705%20184244.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>153</key>
+		<dict>
+			<key>Track ID</key><integer>153</integer>
+			<key>Name</key><string>Бм. Глава 7. Фрагмент 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>3852805</integer>
+			<key>Total Time</key><integer>466394</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-06T19:29:27Z</date>
+			<key>Date Added</key><date>2020-07-08T01:02:00Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-06T19:21:21Z</date>
+			<key>Persistent ID</key><string>BF023D373EDCD766</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200706%20222121.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>155</key>
+		<dict>
+			<key>Track ID</key><integer>155</integer>
+			<key>Name</key><string>Бм. Глава 6. Фрагмент 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>980380</integer>
+			<key>Total Time</key><integer>118003</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-06T17:22:42Z</date>
+			<key>Date Added</key><date>2020-07-08T01:02:00Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-06T17:20:27Z</date>
+			<key>Persistent ID</key><string>1D8C8C53E2F6A764</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200706%20202027.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>157</key>
+		<dict>
+			<key>Track ID</key><integer>157</integer>
+			<key>Name</key><string>Бм. Глава 7. Фрагмент 1</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>17160434</integer>
+			<key>Total Time</key><integer>2078741</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-06T17:59:47Z</date>
+			<key>Date Added</key><date>2020-07-08T01:02:00Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-06T17:24:41Z</date>
+			<key>Persistent ID</key><string>ADC368F3A5CD3124</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200706%20202441.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>159</key>
+		<dict>
+			<key>Track ID</key><integer>159</integer>
+			<key>Name</key><string>Бм. Глава 6. Фрагмент 1</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>27585531</integer>
+			<key>Total Time</key><integer>3339980</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-06T16:39:12Z</date>
+			<key>Date Added</key><date>2020-07-08T01:02:00Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-06T15:42:55Z</date>
+			<key>Persistent ID</key><string>42D9C44BB89AFF13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200706%20184255.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>161</key>
+		<dict>
+			<key>Track ID</key><integer>161</integer>
+			<key>Name</key><string>Бм. Глава 8</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>16384311</integer>
+			<key>Total Time</key><integer>1974856</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-08T22:04:10Z</date>
+			<key>Date Added</key><date>2020-07-08T23:57:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-08T21:30:52Z</date>
+			<key>Persistent ID</key><string>C6F7F9EC5D911136</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200709%20003052.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>163</key>
+		<dict>
+			<key>Track ID</key><integer>163</integer>
+			<key>Name</key><string>Бм. Глава 9</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>22245496</integer>
+			<key>Total Time</key><integer>2681323</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-08T23:48:02Z</date>
+			<key>Date Added</key><date>2020-07-08T23:57:05Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-08T22:16:01Z</date>
+			<key>Persistent ID</key><string>D1D5A58E15E6D043</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200709%20011601.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>165</key>
+		<dict>
+			<key>Track ID</key><integer>165</integer>
+			<key>Name</key><string>Бм. Глава 10</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>14034535</integer>
+			<key>Total Time</key><integer>1692896</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-14T11:30:33Z</date>
+			<key>Date Added</key><date>2020-07-15T00:57:57Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-14T11:01:58Z</date>
+			<key>Persistent ID</key><string>97093368FBF7EA79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200714%20140158.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>167</key>
+		<dict>
+			<key>Track ID</key><integer>167</integer>
+			<key>Name</key><string>Бм. Глава 11</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>16424953</integer>
+			<key>Total Time</key><integer>1975948</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-14T12:06:36Z</date>
+			<key>Date Added</key><date>2020-07-15T00:57:57Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-14T11:33:21Z</date>
+			<key>Persistent ID</key><string>B6E350593C72C812</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200714%20143321.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>169</key>
+		<dict>
+			<key>Track ID</key><integer>169</integer>
+			<key>Name</key><string>Бм. Глава 13</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>11100716</integer>
+			<key>Total Time</key><integer>1337700</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-15T08:53:58Z</date>
+			<key>Date Added</key><date>2020-07-15T10:45:28Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-15T08:31:20Z</date>
+			<key>Persistent ID</key><string>AE885D48956E30CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200715%20113120.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>171</key>
+		<dict>
+			<key>Track ID</key><integer>171</integer>
+			<key>Name</key><string>Бм. Глава 14. Фрагмент 2</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>9286298</integer>
+			<key>Total Time</key><integer>1117970</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-15T10:44:31Z</date>
+			<key>Date Added</key><date>2020-07-15T10:45:28Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-15T10:25:36Z</date>
+			<key>Persistent ID</key><string>7DE36A481D882A48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200715%20132536.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173</key>
+		<dict>
+			<key>Track ID</key><integer>173</integer>
+			<key>Name</key><string>Бм. Глава 14. Фрагмент 1</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>7527694</integer>
+			<key>Total Time</key><integer>907481</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-15T09:27:03Z</date>
+			<key>Date Added</key><date>2020-07-15T10:45:28Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-15T09:11:30Z</date>
+			<key>Persistent ID</key><string>876C20518CEB66A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200715%20121130.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>175</key>
+		<dict>
+			<key>Track ID</key><integer>175</integer>
+			<key>Name</key><string>Бм. Глава 12</string>
+			<key>Artist</key><string>iPhone User</string>
+			<key>Album</key><string>Голосовые записи</string>
+			<key>Genre</key><string>Голосовая запись</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>20190305</integer>
+			<key>Total Time</key><integer>2431128</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-07-15T08:01:18Z</date>
+			<key>Date Added</key><date>2020-07-15T10:45:28Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-15T07:20:23Z</date>
+			<key>Persistent ID</key><string>7B684020BF51D40A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/User/Music/iTunes/iTunes%20Media/Voice%20Memos/20200715%20102023.m4a</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Медиатека</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>177</integer>
+			<key>Playlist Persistent ID</key><string>C758ACDA0DF5DF2B</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>73</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>75</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>77</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>79</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>81</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>83</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>85</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>87</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>89</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Загружено</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>235</integer>
+			<key>Playlist Persistent ID</key><string>867C20932EB79662</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>73</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>83</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>75</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>77</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>79</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>81</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>85</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>87</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>89</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Музыка</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>290</integer>
+			<key>Playlist Persistent ID</key><string>D39527D6AAFDC949</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>73</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>83</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>75</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>77</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>79</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>81</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>85</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>87</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>89</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Загружено</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>351</integer>
+			<key>Playlist Persistent ID</key><string>0A61AC1CCDD642DD</string>
+			<key>Distinguished Kind</key><integer>66</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Фильмы</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>354</integer>
+			<key>Playlist Persistent ID</key><string>FB4A81112D2DF413</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Загружено</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>360</integer>
+			<key>Playlist Persistent ID</key><string>58FAAD4225FF9908</string>
+			<key>Distinguished Kind</key><integer>67</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Телешоу</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>363</integer>
+			<key>Playlist Persistent ID</key><string>51D9F63411E64B10</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Подкасты</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>366</integer>
+			<key>Playlist Persistent ID</key><string>48AB3C5F08B19D0F</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Аудиокниги</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>373</integer>
+			<key>Playlist Persistent ID</key><string>247DEC1D42CEFBEB</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>376</integer>
+			<key>Playlist Persistent ID</key><string>CBDAFB124AD56259</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>25 самых популярных</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>379</integer>
+			<key>Playlist Persistent ID</key><string>0F55BC1EDFFEFEFB</string>
+			<key>Distinguished Kind</key><integer>202</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Классическая музыка</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>382</integer>
+			<key>Playlist Persistent ID</key><string>896BD246F626C857</string>
+			<key>Distinguished Kind</key><integer>206</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVxTTHN0AAEAAQAAABEAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAASwBsAGEAcwBzAGkAcwBrAAAACAEAAAEAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQwBsAOEAcwBz
+			AGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABIASwBsAGEAcwBzAGkAcwBrAHQAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQaBDsEMARBBEEEOARHBDUEQQQ6BDAETwAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+			AEsAbABhAHMAeQBjAHoAbgBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABIASwBsAGEAcwBzAGkAbgBlAG4AAAAIAQAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABLAGwAYQBzAGkAawAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU
+			AEsAbABhAHMAcwB6AGkAawB1AHMAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBWAOEBfgBuAOEAIABoAHUAZABiAGEAAAAIAQAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZDBkQGJwYz
+			BkoGQwZK
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Мой высший рейтинг</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>385</integer>
+			<key>Playlist Persistent ID</key><string>BD311426AEFD0557</string>
+			<key>Distinguished Kind</key><integer>201</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Музыка 90-х</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>388</integer>
+			<key>Playlist Persistent ID</key><string>A3FA0DD6B2EF9455</string>
+			<key>Distinguished Kind</key><integer>200</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Последние исполненные</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>391</integer>
+			<key>Playlist Persistent ID</key><string>8F6F66FEAEE16382</string>
+			<key>Distinguished Kind</key><integer>203</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Голосовые записи</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>394</integer>
+			<key>Playlist Persistent ID</key><string>C71062C631C006A3</string>
+			<key>Distinguished Kind</key><integer>17</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>73</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>75</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>77</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>79</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>81</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>83</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>85</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>87</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>89</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
